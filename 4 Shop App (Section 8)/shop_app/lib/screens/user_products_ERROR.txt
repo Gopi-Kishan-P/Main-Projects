@@ -1,0 +1,8 @@
+FutureBuilder(
+        future: _refresh(context),
+        builder: (ctx, snapshot) =>
+            snapshot.connectionState == ConnectionState.waiting
+                ? Center(
+                    child: CircularProgressIndicator(),
+                  )
+                : 

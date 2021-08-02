@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229863365309",
+    "project_id": "flutter-chat-udemy-academind",
+    "storage_bucket": "flutter-chat-udemy-academind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229863365309:android:bd6328d0e3451412f4f5d4",
+        "android_client_info": {
+          "package_name": "com.gopikishanp.chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229863365309-anqhrgs0urcd4sqshid2b96882fnl5la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVfRxO40_cjFcJQSYige_KupFZDJ-eq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229863365309-anqhrgs0urcd4sqshid2b96882fnl5la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
